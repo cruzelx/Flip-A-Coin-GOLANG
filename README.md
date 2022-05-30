@@ -41,6 +41,7 @@ $ cp <path-to-flipacoin-binary> ${HOME}/bin
 ```
 
 Add following in shell config file. Eg, `.bashrc` or `.zshrc`
+
 `export PATH=${HOME}/bin`
 
 Refresh the terminal either by closing and reopening, or by using source command.
